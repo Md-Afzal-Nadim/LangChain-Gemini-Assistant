@@ -39,7 +39,7 @@ app.use("/api/chats", chatRouter);
 
 
 app.use(express.static("./public"));
-app.use("*", (req, res) => {
+app.use("*name", (req, res) => {
   res.sendFile(path.join(__dirname, "..", "./public/index.html"));
   
 })
