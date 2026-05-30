@@ -51,7 +51,7 @@ export async function register(req, res) {
     
          <p>Hi ${username},</p>
          <p>Thank you for registering with Perplexity. Click the link below to verify your email address:</p>
-         <a href="http://localhost:3000/api/auth/verify-email?token=${emailVerificationToken}">Verify Email</a>
+         <a href="https://langchain-gemini-assistant.onrender.com/api/auth/verify-email?token=${emailVerificationToken}">Verify Email</a>
          <p>Best regards,</p>
          <p>Perplexity Team(MD AFZAL NADIM)</p>`,
 
