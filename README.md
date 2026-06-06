@@ -18,10 +18,7 @@ For testing purposes only:
 **Demo User 2**
 
 * Email: taskinsaba47@gmail.com
-* Password: 1234taskin<img width="1902" height="905" alt="Screenshot 2026-06-06 184422" src="https://github.com/user-attachments/assets/b095f699-b3f5-4ed2-99c7-ee4d975f7aa1" />
-<img width="1902" height="905" alt="Screenshot 2026-06-06 184422" src="https://github.com/user-attachments/assets/807ee17e-271e-4c93-b121-4664452eb85f" />
-<img width="1902" height="905" alt="Screenshot 2026-06-06 184422" src="https://github.com/user-attachments/assets/3500b41f-4faa-4a0f-8eb3-50532a0e2dc4" />
-
+* Password: 1234taskin
 
 > Note: Demo credentials may change or become unavailable at any time.
 
@@ -97,6 +94,7 @@ Tavily Search (Real-Time Web Data)
 
 ### Home Page
 
+<img width="1902" height="905" alt="Screenshot 2026-06-06 184422" src="https://github.com/user-attachments/assets/d5398414-6881-441c-a659-c45ade9cb265" />
 
 
 ### Chat Interface
